@@ -1,0 +1,18 @@
+transformers>=4.45.0
+accelerate>=0.34.0
+diffusers>=0.30.0
+scipy
+soundfile
+librosa
+gradio>=4.44.0
+pydrive2
+demucs
+edge-tts
+pydub
+huggingface_hub>=0.25.0
+torch
+torchaudio
+numpy
+sentencepiece
+protobuf
+# Voice cloning (installed cleanly in Cell 1): chatterbox-tts
