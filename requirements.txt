@@ -1,0 +1,16 @@
+transformers>=4.45.0
+accelerate>=0.34.0
+diffusers>=0.30.0
+scipy
+soundfile
+gradio>=4.44.0
+pydrive2
+demucs
+edge-tts
+pydub
+huggingface_hub>=0.25.0
+torch
+numpy
+sentencepiece
+protobuf
+# installed with --no-deps (see notebook Cell 1): kokoro misaki phonemizer
