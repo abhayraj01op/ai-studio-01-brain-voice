@@ -1,0 +1,12 @@
+transformers
+accelerate
+bitsandbytes
+diffusers
+scipy
+soundfile
+gradio
+pydrive2
+demucs
+edge-tts
+pydub
+# installed with --no-deps (see notebook): kokoro misaki phonemizer
